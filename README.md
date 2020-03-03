@@ -1,11 +1,13 @@
 # Water sustainability in the context of climate change 
 
-This solution starter was created by at the United Nations Human Rights Office in Geneva, Switzerland on February 27-28, 2020. It features contributions by technologists from XXX, YYY, IBM, and Red Hat. 
+This solution starter was created by at the United Nations Human Rights Office in Geneva, Switzerland on February 27-28, 2020. It features contributions by technologists from NearForm, IBM, and Red Hat. 
 
 ## Authors
 
-* Jane Jones - RBS
-* Janet Jones - IBM
+* Markus Eisele - Red Hat
+* Antoine Marin - NearForm
+* Susan Malaika - IBM
+* John Walicki - IBM
 
 ## Contents
 
@@ -24,11 +26,13 @@ This solution starter was created by at the United Nations Human Rights Office i
 ## Overview
 
 ### What's the problem?
+
 The global climate crisis is inextricably linked to water. Higher temperatures and more extreme weather events are projected to affect the availability and distribution of rainfall, snowmelt, river flows, and groundwater, and further deteriorate water quality. Low-income communities, already the most vulnerable to any threats to water supply, are likely to be the worst affected.
 
 Read the [UN policy on climate change and water](https://www.unwater.org/publications/un-water-policy-brief-on-climate-change-and-water/) and understand how you can make a difference.
 
 ### How can technology help?
+
 Whether it's third-party open source projects or IBM Cloud services, technologies like data analytics, Internet of Things, artificial intelligence, and blockchain can help address global environmental challenges such as water quantity and quality. Using water more efficiently will reduce greenhouse gases from treatment systems. 
 
 ## Video
