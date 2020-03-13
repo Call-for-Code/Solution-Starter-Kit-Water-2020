@@ -56,6 +56,15 @@ In order to leverage the benefits of such a system it must be designed to allow 
 
 ## Diagrams
 
+![Water Sustainability Starter Architecture](images/Water-Sustainablility-Solution-Arch.png)
+
+### Flow
+
+1. Use inexpensive Arduino ESP8622 / ESP32 devices and sensors to measure soil moisture, temperature, humidity. Send data over WiFi or LoraNet using MQTT to IBM Watson IoT Platform.
+2. Send the farm Personal Weather Station data to the Weather Underground. Query The Weather Company Personal Weather Station APIs to retrieve and build a dashboard of local weather conditions and forecasts for the farm.
+3. Query The Weather Company forecast predictions and historical data APIs. Incorporate Severe Weather Alert API information 
+4. Create a hyper local weather forecast for your farm.
+5. Build a hyperlocal farm crop model using IoT data, Weather Data and crop data. Build a harvest prediction model to guide the farmer while improving crop yields, lowering water consumption and reducing fertilizer costs.
 
 ## Documents
 
