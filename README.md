@@ -74,6 +74,28 @@ In order to leverage the benefits of such a system it must be designed to allow 
 
 ## Technology
 
+### IBM Cloud services
+
+- [The Weather Company APIs](https://callforcode.weather.com/)
+- [Watson Studio](https://www.ibm.com/cloud/watson-studio)
+- [Watson IoT](https://www.ibm.com/internet-of-things)
+- [Watson Machine Learning](https://www.ibm.com/cloud/machine-learning)
+
+### Open source technologies 
+
+- [Scikit-Learn](https://scikit-learn.org/stable/)
+- [Node-RED](https://nodered.org/)
+- [Jupyter Notebooks](https://jupyter.org/)
+
+### Hardware Components – Suggested components for the farmer to use 
+
+- [Ambient Weather ws-2902](https://www.ambientweather.com/amws2902.html) Personal Weather Station
+- [Arduino Uno Wifi](https://store.arduino.cc/arduino-uno-wifi)
+- [ESP8266](https://github.com/esp8266/Arduino/blob/master/README.md)
+- [Moisture sensor](https://www.amazon.com/Kuman-Moisture-Compatible-Raspberry-Automatic/dp/B071F4RDHY/) 
+- [Solar Sensor](https://www.banggood.com/Portable-Mini-5V-60mA-0_3W-Solar-Epoxy-Panel-p-1144421.html)
+- [Solar Panel](https://www.cooking-hacks.com/solar-panel-7-4v)
+- [Battery](https://www.cooking-hacks.com/2300-ma-h-rechargeable-battery)
 
 
 ## Getting started
