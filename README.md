@@ -68,9 +68,14 @@ In order to leverage the benefits of such a system it must be designed to allow 
 
 ## Documents
 
+- [Research article - Multifunctional agriculture WUR-INRA](https://www.wur.nl/en/Research-Results/Chair-groups/Plant-Sciences/Farming-Systems-Ecology-Group/Research/Multifunctional-agriculture-WUR-INRA-the-Netherlands.htm)
+- [Research article - Weather Forecasting Using Sliding Window Algorithm](https://www.hindawi.com/journals/isrn/2013/156540/)
 
 ## Datasets
 
+- [Greenspin GmbH](https://www.greenspin.de)
+- [Open data in the agricultural sector](https://www.europeandataportal.eu/en/highlights/open-data-agricultural-sector)
+- [Data.world soil data sets](https://data.world/datasets/soil)
 
 ## Technology
 
