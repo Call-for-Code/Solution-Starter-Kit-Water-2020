@@ -74,6 +74,11 @@ In order to leverage the benefits of such a system it must be designed to allow 
 
 ## Technology
 
+### IBM Developer Tutorials
+
+- [Build a hyper-local weather dashboard - Use The Weather Company's APIs to build a Node-RED weather dashboard](https://developer.ibm.com/tutorials/collect-display-hyperlocal-weather-data-from-a-pws-cfc-starter-kit-1/)
+- [Analyze IoT ESP8266 Sensor Data](https://developer.ibm.com/technologies/iot/tutorials/connect-a-soil-sensor-send-data-to-the-cloud-cfc-starter-kit-1)
+
 ### IBM Cloud services
 
 - [The Weather Company APIs](https://callforcode.weather.com/)
