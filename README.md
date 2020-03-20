@@ -40,7 +40,7 @@ Gathering, storing and analyzing the right amount of data to use for a hyper loc
 
 ## Video
 
-[![Call for Code Solution Starter: Water sustainability in the context of climate change ](https://img.youtube.com/vi/hC2b-iP6Rxc/0.jpg)](https://www.youtube.com/watch?v=hC2b-iP6Rxc)
+[![Call for Code Solution Starter: Water sustainability in the context of climate change ](https://img.youtube.com/vi/aHXgGkXDNF4/0.jpg)](https://www.youtube.com/watch?v=aHXgGkXDNF4)
 
 ## The idea
 
