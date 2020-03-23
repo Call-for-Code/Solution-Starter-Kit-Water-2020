@@ -112,10 +112,19 @@ In order to leverage the benefits of such a system it must be designed to allow 
 
 ### Prerequisite
 
-
+- Register for an [IBM Cloud](https://www.ibm.com/account/reg/us-en/signup?formid=urx-42793&eventid=cfc-2020) account.
+- Request a [Weather Company API key](http://callforcode.weather.com)
+- Create an [Internet of Things Starter Kit](https://developer.ibm.com/tutorials/how-to-create-an-internet-of-things-platform-starter-application/)
 
 ### Steps
 
+#### Analyze IoT sensor data
+
+- In this extensive [tutorial](https://developer.ibm.com/tutorials/connect-a-soil-sensor-send-data-to-the-cloud-cfc-starter-kit-1/), you'll learn how to connect an ESP8266 to Watson IoT over MQTT and stream environmental data from the sensors to the IBM Cloud.
+
+#### Build a weather dashboard
+
+- This quick [tutorial](https://developer.ibm.com/tutorials/collect-display-hyperlocal-weather-data-from-a-pws-cfc-starter-kit-1/) demonstrates how to display hyper-local weather information from a residential or farming weather station, using a personal weather station, Node-RED, Weather Underground, and The Weather Company APIs and the node-red-contrib-twc-weather nodes.
 
 
 ## Resources
@@ -123,7 +132,6 @@ In order to leverage the benefits of such a system it must be designed to allow 
 - [Words into Action guidelines: Build back better in recovery, rehabilitation and reconstruction](https://www.unisdr.org/we/inform/publications/53213)
 - [Sendai Framework Priority 4: Build Back Better](https://www.youtube.com/watch?v=mRTlS3ZfljM)
 - [Open data in the agricultural sector](https://www.europeandataportal.eu/en/highlights/open-data-agricultural-sector)
-
 
 
 ## License
